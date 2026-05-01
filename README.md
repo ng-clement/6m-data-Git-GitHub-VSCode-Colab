@@ -49,3 +49,6 @@ By the end of this 90-minute session, learners will be able to:
 2. Stage it (select what to save)
 3. Commit it (take the snapshot)
 4. Push it (send to GitHub)
+
+
+Updated from GitHub directly!
